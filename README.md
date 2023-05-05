@@ -1,2 +1,10 @@
-# weather-detection-website
-It is  web based application for detecting weather using html , css , javascript and weather api l
+
+
+# simple-weather-website
+
+## About
+ - This is a simple weather website.
+ -  Pure HTML, CSS, JavaScript used.
+ 
+ ## To see the project
+[Weather website](https://simple-weather-website.netlify.app/)
